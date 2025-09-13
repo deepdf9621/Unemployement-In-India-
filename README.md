@@ -6,7 +6,7 @@ This project analyzes **unemployment trends in India** using **Power BI**. The g
 ---
 
 ## Project Workflow  
-![Project Workflow](Images/workflow.png)  
+![Project Workflow](Images/P3.png)  
 *Data Pipeline: Raw data → Cleaning → Modeling → Power BI Dashboard → Insights*  
 
 ---
@@ -64,9 +64,8 @@ The dataset contains the following columns:
 ---
 
 ## 📸 Dashboard Preview  
-![Dashboard 1](Images/dashboard1.png)  
-![Dashboard 2](Images/dashboard2.png)  
-![Dashboard 3](Images/dashboard3.png)  
+![Dashboard 1](Images/P1.png)  
+![Dashboard 2](Images/P2.png)   
 
 ---
 
